@@ -5,7 +5,7 @@ const config = {
     max: 8,
     language: 'es-AR',
     infoEmail: 'info@email.com',
-    active: true
+    active: false
 };
 
 export default config;
